@@ -35,12 +35,46 @@ Além disso, os passeios proporcionam uma oportunidade valiosa para nossos anima
 
 # AUmigo
 
-AUmigo foi nossa ideia de logomarca para nosso sistema. Um app móvel e de desktop, onde é possível executar as funções registradas no nosso conceito interativo de usuário, descritas em nosso modelo **diagrama de caso de uso** registrado abaixo. 
+AUmigo foi nossa ideia de logomarca para nosso sistema. Um app mobile em que é possível executar as funções registradas no nosso conceito interativo de usuário, descritas em nosso modelo **diagrama de caso de uso** registrado abaixo. 
 
 ![Nesta imagem está registrado nosso modelo de caso de uso que fundamentou o desenvolvimento do projeto, norteando nossas **User Stories** até seu desenvolvimento final](system_user_cases.jpg)
 
 Após a concepção de nossa ideia, também criamos uma identidade visual para nosso app, mostrada abaixo.
 
-![Nesta imagem está registrado nosso primeiro logotipo empresarial para o app](AUmigo_logo.jpg)
+![Nesta imagem está registrado nosso primeiro logotipo empresarial para o app](/Images/AUmigo_logo.jpg)
+
+## Concept Prototype
+
+Criamos um conceito para diferentes páginas presentes no aplicativo através do programa *Figma*. As telas criadas se referem às principais partes do aplicativo.
+
+### Create account page
+
+Essa página tem o destino de oferecer ao usuário a opção de logar ou registrar-se.
+![login](Images/login.png)
+
+
+### Phone number
+
+Essa página mostra uma outra opção de login ao usuário, através do número de celular.
+
+![phone](/Images/phone.png)
+
+### Log in page
+
+Essa página oferece ao usuário os métodos de entrada, aceitação dos termos de serviço e recuperação de senha.
+
+![information](/Images/information.png)
+
+### Options page
+
+Essa página dá ao usuário poder de modificação interna de suas informações dentro do aplicativo.
+
+![options](/Images/options.png)
+
+### Home page
+
+Essa página é a página inicial ao entrar no aplicativo. Nela existem as opções mais adequadas para o cliente.
+
+![homepage](/Images/homepage.png)
 
 
