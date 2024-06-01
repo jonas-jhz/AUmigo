@@ -30,4 +30,17 @@ No entanto, os passeios não são apenas sobre exercício físico. Eles também 
 Além disso, os passeios são uma importante oportunidade de socialização para nossos animais de estimação. Durante os passeios, eles têm a chance de interagir com outros animais e pessoas, desenvolvendo habilidades sociais importantes e aprendendo a se comportar de maneira apropriada em diferentes situações. Isso é crucial para garantir que nossos animais sejam bem ajustados e felizes em seu ambiente.
 
 Ao mesmo tempo, os passeios regulares também desempenham um papel crucial na prevenção de problemas de saúde a longo prazo. Manter nossos animais de estimação ativos e saudáveis pode ajudar a prevenir uma série de problemas de saúde, incluindo obesidade, diabetes e doenças cardíacas, ao mesmo tempo em que fortalece seu sistema imunológico e aumenta sua resistência a doenças.
-Além disso, os passeios proporcionam uma oportunidade valiosa para nossos animais explorarem o mundo ao seu redor. Ao expô-los a diferentes ambientes e experiências, estamos estimulando seus instintos naturais e proporcionando uma experiência enriquecedora que contribui para seu desenvolvimento geral.
+Além disso, os passeios proporcionam uma oportunidade valiosa para nossos animais explorarem o mundo ao seu redor. Ao expô-los a diferentes ambientes e experiências, estamos estimulando seus instintos naturais e proporcionando uma experiência enriquecedora que contribui para seu desenvolvimento geral
+
+
+# AUmigo
+
+AUmigo foi nossa ideia de logomarca para nosso sistema. Um app móvel e de desktop, onde é possível executar as funções registradas no nosso conceito interativo de usuário, descritas em nosso modelo **diagrama de caso de uso** registrado abaixo. 
+
+![Nesta imagem está registrado nosso modelo de caso de uso que fundamentou o desenvolvimento do projeto, norteando nossas **User Stories** até seu desenvolvimento final](system_user_cases.jpg)
+
+Após a concepção de nossa ideia, também criamos uma identidade visual para nosso app, mostrada abaixo.
+
+![Nesta imagem está registrado nosso primeiro logotipo empresarial para o app](AUmigo_logo.jpg)
+
+
